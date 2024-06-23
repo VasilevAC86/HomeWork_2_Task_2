@@ -16,7 +16,7 @@
             <Viewbox>
                 <TextBlock FontSize="20" Foreground="DarkGray" FontFamily="Impact">Наши лучшие работы</TextBlock>
             </Viewbox>
-            <ScrollViewer Height="500" VerticalScrollBarVisibility="Visible">
+            <ScrollViewer Height="450" VerticalScrollBarVisibility="Visible">
                 <StackPanel>
                     <Image Source="Resources\1.jpg" MaxHeight="150px"/>
                     <TextBlock FontSize="20" HorizontalAlignment="Center" FontWeight="Black">Алёна</TextBlock>
